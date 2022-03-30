@@ -1,3 +1,5 @@
+# for polynomial regression using sci-kit in python
+
 def poly(x,y,deg):
     # split data
     from sklearn.model_selection import train_test_split
